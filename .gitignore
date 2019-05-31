@@ -6,6 +6,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+implementing-restful-aspdotnet-web-api/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
